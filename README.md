@@ -7,4 +7,4 @@ Built using **HTML, CSS, and JavaScript**, this project allows users to:
 * Include numbers, symbols, uppercase & lowercase letters
 * Copy the generated password with a single click
 
-U
+visit link - https://mayur74.github.io/Random-Password/
